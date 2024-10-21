@@ -65,8 +65,4 @@ Explore my repositories to learn more about my projects and coding journey!
 - [**Office Barter App**](https://github.com/BAferiel/office-barter-app)  
   `Java` + `JavaFX`
 
----
 
-**122 contributions** in the last year  
-📅 **Contribution Graph**  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BAferiel&theme=github)
