@@ -24,7 +24,7 @@ I'm **Feriel Ben Abdelghani**, a passionate **Web Development Engineer** with ex
 `Git` `GitHub` `IntelliJ IDEA` `VS Code`  
 
 **Project Management:**  
-`Scrum/Agile` `Trello` `Jira`
+`Scrum/Agile` `Jira`
 
 **Design Tools:**  
 `Figma`
@@ -50,19 +50,11 @@ I'm **Feriel Ben Abdelghani**, a passionate **Web Development Engineer** with ex
 ---
 
 ### ✨ Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com).  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/feriel-ben-abdelghani-b39521260/).  
 Explore my repositories to learn more about my projects and coding journey!
 
 ---
 
-## 🌟 Popular Repositories
-- [**Student Housing Web App**](https://github.com/BAferiel/student-housing-app)  
-  `Angular` + `Spring Boot`
 
-- [**E-commerce Frontend**](https://github.com/BAferiel/ecommerce-frontend)  
-  `React.js` + `Storybook`
-
-- [**Office Barter App**](https://github.com/BAferiel/office-barter-app)  
-  `Java` + `JavaFX`
 
 
